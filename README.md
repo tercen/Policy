@@ -1,2 +1,2 @@
-# Legal
-Tercen Terms &amp; conditions, and Policy documents.
+# Policy
+Tercen terms of service and policy documents.
