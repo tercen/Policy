@@ -32,61 +32,47 @@ Except as set out below, we do not share, or sell, or disclose to a third party,
 
 User Personal Information does not include aggregated, non-personally identifying information that does not identify a User or cannot otherwise be reasonably linked or connected with them. We may use such aggregated, non-personally identifying information for research purposes and to operate, analyze, improve, and optimize our Website and Service.
 
-
 ## Information users provide directly to Tercen
 
 ### *Registration Information*
-
 We require some basic information at the time of account creation. When you create your own username and password, we ask you for a valid email address.
 
-
 ### *Payment Information*
-
 If you sign on to a paid Account with us, we collect your full name, address, and credit card information. Please note, Tercen does not process or store your credit card information, but our third-party payment processor does.
 
 Further information about how your privacy is protected by our payment partner can be found here. [Stripe Privacy Policy](https://stripe.com/ie/privacy)
 
 
 ### *Profile Information*
-
 You may choose to give us more information for your Account profile, such as your full name, an avatar which may include a photograph, your biography, your location, your company, and a URL to a third-party website. This information may include User Personal Information. Please note that your profile information may be visible to other Users of our Service.
 
 
 ## Information Tercen automatically collects from your use of the Service
 
 ### *Transactional Information*
-
 If you have a paid Account with us, we automatically collect certain information about your transactions on the Service, such as the date, time, and amount charged.
 
 
 ### *Usage Information*
-
 If you’re accessing our Service or Website, we automatically collect the same basic information that most services collect, subject, where necessary, to your consent. This includes information about how you use the Service, such as the pages you view, the referring site, your IP address and session information, and the date and time of each request. This is information we collect from every visitor to the Website, whether they have an Account or not. This information may include User Personal information.
 
 
 ### *Cookies and Similar Technologies Information*
-
 As further described below, and subject, where applicable, to your consent, we automatically collect information from cookies and similar technologies (such as cookie ID and settings) to keep you logged in, to remember your preferences, and to identify you and your device.
 
 
 ### *Device Information*
-
 We may collect certain information about your device, such as its IP address, browser or client application information, language preference, operating system and application version, device type and ID, and device model and manufacturer. This information may include User Personal information.
 
-
 ## Information we collect from third parties
-
 Tercen may collect User Personal Information from third parties. For example, this may happen if you sign up for training or to receive information about Tercen from one of our vendors, partners, or affiliates. Tercen does not purchase User Personal Information from third-party data brokers.
 
-
 ## Other services you link to your account
-
 We receive information about you when you link a third-party service with our Services. For example, if you create an account or log into the Services using your Google credentials, we receive your email address as permitted by your Google profile settings in order to authenticate you.
 
 ---
 
 # What information Tercen does not collect
-
 We do not intentionally collect **“Sensitive Personal Information”**, such as personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation. If you choose to store any Sensitive Personal Information on our servers, you are responsible for complying with any regulatory controls regarding that data.
 
 If you are a child under the age of 13, you may not have an Account on Tercen. Tercen does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a User who is under the age of 13, we will have to close your Account. We don’t want to discourage you from learning to code, but those are the rules. Please see our Terms of Service for information about Account termination. Different countries may have different minimum age limits, and if you are below the minimum age for providing consent for data collection in your country, you may not have an Account on Tercen.
@@ -96,8 +82,6 @@ We do not intentionally collect User Personal Information that is stored in your
 ---
 
 # How Tercen uses your information
- 
-
 We may use your information for the following purposes:
 
 * We use your Registration Information to create your account, and to provide you the Service.
@@ -127,10 +111,7 @@ We may use your information for the following purposes:
 ---
 
 # Our legal bases for processing information
-
 To the extent that our processing of your User Personal Information is subject to certain international laws (including, but not limited to, the European Union’s General Data Protection Regulation (GDPR)), Tercen is required to notify you about the legal basis on which we process User Personal Information. Tercen processes User Personal Information on the following legal bases:
-
- 
 
 #### Contract Performance:
 * When you create a Tercen Account, you provide your Registration Information. We require this information for you to enter into the Terms of Service agreement with us, and we process that information on the basis of performing that contract. We also process your username and email address on other legal bases, as described below.
@@ -148,40 +129,30 @@ If you would like to request deletion of data we process on the basis of consent
 ---
 
 # How we share the information we collect
-
 We may share your User Personal Information with third parties under one of the following circumstances:
 
 
 ### With your consent
-
 We share your User Personal Information, if you consent, after letting you know what information will be shared, with whom, and why.* For example, if you join an Organization, you indicate your willingness to provide the owner of the Organization with the ability to view your activity in the Organization’s access log.
 
-
 ### With service providers
-
-We share User Personal Information with a limited number of service providers who process it on our behalf to provide or improve our Service, and who have agreed to privacy restrictions similar to the ones in our Privacy Statement by signing data protection agreements or making similar commitments. Our service providers perform payment processing, customer support ticketing, network data transmission, security, and other similar services. While Tercen processes all User Personal Information in the European Union
-
+We share User Personal Information with a limited number of service providers who process it on our behalf to provide or improve our Service, and who have agreed to privacy restrictions similar to the ones in our Privacy Statement by signing data protection agreements or making similar commitments. Our service providers perform payment processing, customer support ticketing, network data transmission, security, and other similar services. While Tercen processes all User Personal Information in the European Union.
 
 ### For security purposes
 
 If you are a member of an Organization, Tercen may share your username, Usage Information, and Device Information associated with that Organization with an owner and/or administrator of the Organization who has agreed to the Corporate Terms of Service or applicable customer agreements, to the extent that such information is provided only to investigate or respond to a security incident that affects or compromises the security of that particular Organization.
 
-
 ### For legal disclosure
 
 Tercen strives for transparency in complying with legal process and legal obligations. Unless prevented from doing so by law or court order, or in rare, exigent circumstances, we make a reasonable effort to notify users of any legally compelled or required disclosure of their information. Tercen may disclose User Personal Information or other information we collect about you to law enforcement if required in response to a valid subpoena, court order, search warrant, a similar government order, or when we believe in good faith that disclosure is necessary to comply with our legal obligations, to protect our property or rights, or those of third parties or the public at large.
-
- 
 
 ### Change in control or sale
 
 We may share User Personal Information if we are involved in a merger, sale, or acquisition of corporate entities or business units. If any such change of ownership happens, we will ensure that it is under terms that preserve the confidentiality of User Personal Information, and we will notify you on our Website or by email before any transfer of your User Personal Information. The organization receiving any User Personal Information will have to honor any promises we made in our Privacy Statement or Terms of Service.
 
-
 ### Aggregate, non-personally identifying information
 
 We share certain aggregated, non-personally identifying information with others about how our users, collectively, use Tercen, or how our users respond to our other offerings, such as our conferences or events. For example, we may compile statistics on the open source activity across Tercen.
-
 
 We do not sell your User Personal Information for monetary or other consideration.
 
@@ -197,11 +168,8 @@ If your Project is public, anyone may view its contents. If you include private,
 
 Please see more about User Personal Information in public Projects.
 
-
 ## User Developed Code or Operators
-
 All code developed by users is available publicly on Tercen. If you have developed code which gathers or transmits data during runtime then you alone are responsible for ensuring your code complies with European Legislation and the terms set out in the Tercen Privacy Policy. This specifically includes your responsibility to inform other users of the data gathered and seek their consent for their data to be collected.  
-
 
 ## Public information on Tercen
 Many of Tercen’s services and features are public-facing. If your content is public-facing, third parties may access and use it in compliance with our Terms of Service, such as by viewing your profile or Projects or pulling data via our API. We do not sell that content; it is yours. However, we do allow third parties, such as research organizations or archives, to compile public-facing Tercen information. Other third parties, such as data brokers, have been known to scrape sites such as Tercen and compile data as well.
@@ -218,7 +186,6 @@ You have legal responsibility for the data you make public on Tercen. By using o
 
 
 ## Organizations
-
 You may indicate, through your actions on Tercen, that you are willing to share your User Personal Information. If you collaborate on or become a member of an Organization, then its Account owners may receive your User Personal Information. When you accept an invitation to an Organization, you will be notified of the types of information owners may be able to see (for more information, see About Organization Membership). If you accept an invitation to an Organization with a verified domain, then the owners of that Organization will be able to see your full email address(es) within that Organization’s verified domain(s).
 
 Please note, Tercen may share your username, Usage Information, and Device Information with the owner of the Organization you are a member of, to the extent that your User Personal Information is provided only to investigate or respond to a security incident that affects or compromises the security of that particular Organization.
@@ -227,30 +194,22 @@ If you collaborate on or become a member of an Account that has agreed to the Co
 
 Please contact the Account owners for more information about how they might process your User Personal Information in their Organization and the ways for you to access, update, alter, or delete the User Personal Information stored in the Account.
 
-
 ## Additional services
 
 ### Tercen Pages
-
 If you create a Tercen Pages website, it is your responsibility to post a privacy statement that accurately describes how you collect, use, and share personal information and other visitor information, and how you comply with applicable data privacy laws, rules, and regulations. Please note that Tercen may collect User Personal Information from visitors to your Tercen Pages website, including logs of visitor IP addresses, to comply with legal obligations, and to maintain the security and integrity of the Website and the Service.
 
 ---
 
 # How you can access and control the information we collect
- 
-
 If you’re already a Tercen user, you may access, update, alter, or delete your basic user profile information by editing your user profile or contacting Tercen Support or Tercen Premium Support. You can control the information we collect about you by limiting what information is in your profile, by keeping your information current, or by contacting **support@tercen.com**
 
 If Tercen processes information about you, such as information Tercen receives from third parties, and you do not have an account, then you may, subject to applicable law, access, update, alter, delete, or object to the processing of your personal information by contacting **support@tercen.com**
 
-
 ## Data portability
-
 As a Tercen User, you can always take your data with you. You can clone your Projects to your desktop, for example.
 
-
 ## Data retention and deletion of data
-
 Generally, Tercen retains User Personal Information for as long as your account is active or as needed to provide you services.
 
 If you would like to cancel your account or delete your User Personal Information, you may do so in your user profile. We retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 90 days of your request. You may contact support@tercen.com to request the erasure of the data we process on the basis of consent within 30 days.
@@ -259,11 +218,9 @@ After an account has been deleted, certain data, such as contributions to other 
 
 That said, the email address you have supplied via your Project commit settings will always be associated with your commits in the Project system. If you choose to make your email address private, you should also update your Project commit settings. We are unable to change or delete data in the Project commit history — the Project software is designed to maintain a record — but we do enable you to control what information you put in that record.
 
-
 ---
 
 # Our use of cookies, tracking and analytics
-
 
 ## Cookies
 Tercen uses cookies to make interactions with our service easy and meaningful. Cookies are small text files that websites often store on computer hard drives or mobile devices of visitors. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of Tercen. For security purposes, we use cookies to identify a device. By using our Website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept these cookies, you will not be able to log in or use Tercen’s services.
@@ -279,7 +236,6 @@ Some browsers have incorporated “Do Not Track” (DNT) features that can send 
 ---
 
 # How Tercen secures your information
-
 Tercen takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information.
 
 
@@ -302,7 +258,6 @@ Transmission of data on Tercen is encrypted using SSH, HTTPS (TLS), and  Project
 ---
 
 # Tercen’s global privacy practices
-
 We store and process the information that we collect in the **European Union** in accordance with this Privacy Statement though our service providers may store and process data outside the **EU**. However, we understand that we have Users from different countries and regions with different privacy expectations, and we try to meet those needs even when the European Union does not have the same privacy framework as other countries.
 
 We provide a high standard of privacy protection—as described in this Privacy Statement—to all our users around the world, regardless of their country of origin or location, and we are proud of the levels of notice, choice, accountability, security, data integrity, access, and recourse we provide. We work hard to comply with the applicable data privacy laws wherever we do business, working with our Data Protection Officer as part of a cross-functional team that oversees our privacy compliance efforts. Additionally, if our vendors or affiliates have access to User Personal Information, they must sign agreements that require them to comply with our privacy policies and with applicable data privacy laws.
@@ -320,7 +275,6 @@ In particular:
 ---
 
 # How we communicate with you
-
 We use your email address to communicate with you, if you’ve said that’s okay, **and only for the reasons you’ve said that’s okay.** For example, if you contact our Support team with a request, we respond to you via email. You have a lot of control over how your email address is used and shared on and through Tercen. You may manage your communication preferences in your user profile.
 
 By design, the Project version control system associates many actions with a User’s email address, such as commit messages. We are not able to change many aspects of the Project system. This will not change how we contact you, but it will affect how others see you. We set current Users’ email address private by default*
@@ -332,7 +286,6 @@ Our emails may contain a pixel tag, which is a small, clear image that can tell 
 ---
 
 # Resolving complaints
-
 If you have concerns about the way Tercen is handling your User Personal Information, please let us know immediately. We want to help. You may *email us directly at support@tercen.com with the subject line “Privacy Concerns.” We will respond promptly — within 45 days at the latest.
 
 You may also contact our Data Protection Officer directly at the following address.
@@ -352,7 +305,6 @@ Ireland
 
 
 ## Dispute resolution process
-
 In the unlikely event that a dispute arises between you and Tercen regarding our handling of your User Personal Information, we will do our best to resolve it. If we cannot, we have selected to cooperate with the relevant EU Data Protection Authority, or a panel established by the European data protection authorities, for resolving disputes with EU individuals, and with the Swiss Federal Data Protection and Information Commissioner (FDPIC) for resolving disputes with Swiss individuals. Please contact us if you’d like us to direct you to your data protection authority contacts.
 
 Additionally, if you are a resident of an EU member state, you have the right to file a complaint with your local supervisory authority.
@@ -360,17 +312,14 @@ Additionally, if you are a resident of an EU member state, you have the right to
 ---
 
 # Changes to our Privacy Statement
-
 Although most changes are likely to be minor, Tercen may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the primary email address specified in your Tercen account. We will also update our Site Policy Project, which tracks all changes to this policy. For changes to this Privacy Statement that are not material changes or that do not affect your rights, we encourage Users to check our Site Policy Project frequently.
 
 ---
 
 # License
-
 This Privacy Statement is licensed under this Creative Commons Zero license. 
 
 ---
 
 # Contacting Tercen
-
 Questions regarding Tercen’s Privacy Statement or information practices should be directed to **support@tercen.com**
