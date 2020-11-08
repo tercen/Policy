@@ -1,4 +1,8 @@
-# The Tercen Privacy Notice
+---
+title: The Tercen Privacy Notice
+date: 15-May-2020
+version: 1.0
+---
 
 This is the privacy notice of Tercen Data Analytics Ltd.
 In this document the words “we”, “our”, “us”, or “Tercen” all refer to Tercen Data Analytics Ltd.
@@ -329,7 +333,7 @@ Our emails may contain a pixel tag, which is a small, clear image that can tell 
 
 # Resolving complaints
 
-If you have concerns about the way Tercen is handling your User Personal Information, please let us know immediately. We want to help. You may *email us directly at (support@tercen.com) with the subject line “Privacy Concerns.” We will respond promptly — within 45 days at the latest.
+If you have concerns about the way Tercen is handling your User Personal Information, please let us know immediately. We want to help. You may *email us directly at support@tercen.com with the subject line “Privacy Concerns.” We will respond promptly — within 45 days at the latest.
 
 You may also contact our Data Protection Officer directly at the following address.
 

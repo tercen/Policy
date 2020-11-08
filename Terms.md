@@ -1,7 +1,8 @@
-# The Tercen Terms of service
-
-Effective date: May 15, 2020
-
+---
+title: The Tercen Terms of service
+date: 15-May-2020
+version: 1.0
+---
 
 ## **A. Definitions**
 
