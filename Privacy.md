@@ -1,11 +1,11 @@
+# The Tercen Privacy Notice
+
 This is the privacy notice of Tercen Data Analytics Ltd.
 In this document the words “we”, “our”, “us”, or “Tercen” all refer to Tercen Data Analytics Ltd.
 
 We are company number **668615** registered in Ireland.
 
-
 Our registered office is at:
-
 
 **Tercen Data Analytics Ltd. c/o David Breen & Company, Unit 3, Wallace House, Maritana Gate, Canada Street, Waterford, Ireland. X91CR9X**
 

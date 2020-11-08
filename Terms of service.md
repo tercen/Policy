@@ -1,11 +1,7 @@
----
-title: "The Tercen Terms of service"
-output: html_document
----
+# The Tercen Terms of service
 
 Effective date: May 15, 2020
 
---- 
 
 ## **A. Definitions**
 
