@@ -290,16 +290,16 @@ If you have concerns about the way Tercen is handling your User Personal Informa
 
 You may also contact our Data Protection Officer directly at the following address.
 
-```
-Data Protection Officer
-Tercen Data Analytics Ltd.
-c/o David Breen & Company
-Unit 3, Wallace House
-Maritana Gate
-Canada Street
-Waterford
-Ireland
-```
+
+> Data Protection Officer
+> Tercen Data Analytics Ltd.
+> c/o David Breen & Company
+> Unit 3, Wallace House
+> Maritana Gate
+> Canada Street
+> Waterford
+> Ireland
+
 
 **support@tercen.com**
 
