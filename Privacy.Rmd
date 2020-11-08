@@ -1,13 +1,3 @@
----
-title: "Tercen Privacy Statement"
-author: ""
-date: "02/05/2020"
-output: html_document
----
-
----
-
-
 This is the privacy notice of Tercen Data Analytics Ltd.
 In this document the words “we”, “our”, “us”, or “Tercen” all refer to Tercen Data Analytics Ltd.
 
