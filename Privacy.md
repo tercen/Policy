@@ -329,18 +329,20 @@ Our emails may contain a pixel tag, which is a small, clear image that can tell 
 
 # Resolving complaints
 
-If you have concerns about the way Tercen is handling your User Personal Information, please let us know immediately. We want to help. You may *email us directly at support@tercen.com with the subject line “Privacy Concerns.” We will respond promptly — within 45 days at the latest.
+If you have concerns about the way Tercen is handling your User Personal Information, please let us know immediately. We want to help. You may *email us directly at (support@tercen.com) with the subject line “Privacy Concerns.” We will respond promptly — within 45 days at the latest.
 
 You may also contact our Data Protection Officer directly at the following address.
 
-Data Protection Officer\
-* Tercen Data Analytics Ltd.\
-* c/o David Breen & Company,\
-* Unit 3, Wallace House,\
-* Maritana Gate,\
-* Canada Street,\
-* Waterford\
-* Ireland.\
+```
+Data Protection Officer
+Tercen Data Analytics Ltd.
+c/o David Breen & Company
+Unit 3, Wallace House
+Maritana Gate
+Canada Street
+Waterford
+Ireland
+```
 
 **support@tercen.com**
 

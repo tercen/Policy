@@ -2,6 +2,6 @@
 
 Tercen policy documents for:
 
-* Terms of service
-* Privacy
+* [Terms of service](Terms.md)
+* [Privacy](Privacy.md)
 
