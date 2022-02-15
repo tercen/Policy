@@ -1,6 +1,13 @@
 | title	| date | version |
 |Tercen Terms & Conditions for Professional Services | 01-January-2022 | 1.0.0 |
 
+
+---
+title: The Tercen Privacy Notice
+date: 15-May-2020
+version: 1.0
+---
+
 # Terms and Conditions for Professional Services
 
 ___
