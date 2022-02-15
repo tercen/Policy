@@ -4,8 +4,6 @@
 
 # Terms and Conditions for Professional Services
 
-___
-
 These Terms and Conditions and the license terms for the Software or Service that you license govern the provision of the Professional Services. The Professional Services are purchased separately from any other Services provided byTercen or its affiliates. Travel and related expenses may be included in your invoice. Unused Professional Service hours and fees are non refundable but may be applied to other Services.
 * In the event that Tercen uses any subcontractors in the performance of its obligations hereunder, Tercen will remain responsible for such subcontractors’ performance.
 * Tercen warrants that the Professional Services will be performed by Tercen personnel (including any contractors) in a professional and workmanlike manner. This warranty is exclusive and in lieu of all other warranties, express or implied, including any implied warranties of merchantability or fitness for a particular purpose. Customer must report any deficiencies in the Professional Services within 5 days of performance in order to receive warranty remedies. Customer’s sole remedy for breach of the foregoing warranty shall be re-performance of the deficient Professional Services as described and warranted.
