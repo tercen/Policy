@@ -1,8 +1,10 @@
 ---
-title: The Tercen Terms of service
-date: 15-May-2020
-version: 1.0
+title: Tercen Terms of Service
+date: 15-February-2022
+version: 1.0.1
 ---
+
+# Tercen terms of service.
 
 ## **A. Definitions**
 
@@ -65,7 +67,7 @@ In some situations, third parties’ terms may apply to your use of Tercen. For 
 
 **Short version:** *Tercen hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow the terms of this section, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
 
-Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
+Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations. Tercen is recomended for research use only. Tercen is not designed for use in diagnostic, clinical, or therapeutic procedures.
 
 You agree that you will not under any circumstances violate our Acceptable Use Policies or Community Guidelines.
 
