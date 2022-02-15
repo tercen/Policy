@@ -12,29 +12,27 @@ These Terms and Conditions and the license terms for the Software or Service tha
 
 ## Changes
 
-___
-
 No provision of this SOW may be changed, altered, modified, waived or discharged orally. Any such changes, alterations, modifications, waivers or discharges will only be made effective when made in writing in a SOW Change Order signed by Customer and Tercen.
 
 ## Service Providers
-
----
 
 Primary Tercen Professional Services providers may be accompanied by additional Tercen employees based on engagement circumstances or for professional development purposes. All participant names will be provided to Customer in written form (this can be via email) prior to engagement delivery.
 
 ## Schedule Change and Cancellation
 
----
-
 Schedule of Work modifications by either party must be made in writing (this can be by email). Modified Schedule of Work dates shall be no greater than thirty (30) days from originally stated date. Customer’s modification to Schedule of Work shall be given to Tercen fourteen (14) or more days before date of delivery, else Customer remains liable for 100% of Fees and Payment Schedule and Travel and Lodging actuals incurred by Tercen.
-Customer Responsibilities
+
+## Customer Responsibilities
+
 Prior to the start of the Services, Customer will identify a person (“Primary Responsible Person”) who will have the authority to act on Customer’s behalf in all matters regarding this SOW, and will serve as the interface between Tercen’s project team and all Customer departments participating in the Services. Primary Responsible Person will:
-Obtain and provide applicable information, data, consents, decisions and approvals as required by Tercen to perform the Services;
-Provide access, workspace, and connectivity to the systems and other facilities necessary for Tercen’s personnel while working at the Customer location, and help resolve and escalate Services issues within Customer’s organization, as necessary;
-Identify Customer team members with appropriate systems access who will act as Tercen’s hands-on-keyboard during Services, and otherwise make personnel available to assist Tercen in the performance of its responsibilities
-Customer Security Regulations and Hands-On Delivery
+*Obtain and provide applicable information, data, consents, decisions and approvals as required by Tercen to perform the Services;
+*Provide access, workspace, and connectivity to the systems and other facilities necessary for Tercen’s personnel while working at the Customer location, and help resolve and escalate Services issues within Customer’s organization, as necessary;
+*Identify Customer team members with appropriate systems access who will act as Tercen’s hands-on-keyboard during Services, and otherwise make personnel available to assist Tercen in the performance of its responsibilities
+
+## Customer Security Regulations and Hands-On Delivery
+
 Customer will be responsible for securing the privacy of its data and any and all personally identifiable information (PII) and for controlling access by Tercen personnel or subcontractors, including conducting security check-in and providing badges and personal escort for all on-site engagements.
-Customer will not share administrative credentials with Tercen employees and/or personnel.
-Customer will create temporary access credentials for use by Tercen employees and/or personnel valid on the start date and automatically expiring upon completion of the Services.
-Customer shall provide its security regulations to Tercen, and Tercen shall ensure that its personnel or subcontractors make commercially reasonable efforts to comply with Customer’s security regulations in their activities at Customer sites or in connection with Customer systems.
-Unless otherwise agreed to in advance by the written consent of Tercen’s Director of Services, where such consent may be provided via electronic mail, Tercen’s personnel (including its subcontractors) will observe the working hours, working rules, and holiday schedules of Customer while working on Customer’s premises.
+* Customer will not share administrative credentials with Tercen employees and/or personnel.
+* Customer will create temporary access credentials for use by Tercen employees and/or personnel valid on the start date and automatically expiring upon completion of the Services.
+* Customer shall provide its security regulations to Tercen, and Tercen shall ensure that its personnel or subcontractors make commercially reasonable efforts to comply with Customer’s security regulations in their activities at Customer sites or in connection with Customer systems.
+* Unless otherwise agreed to in advance by the written consent of Tercen’s Director of Services, where such consent may be provided via electronic mail, Tercen’s personnel (including its subcontractors) will observe the working hours, working rules, and holiday schedules of Customer while working on Customer’s premises.
