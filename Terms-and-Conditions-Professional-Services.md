@@ -2,7 +2,7 @@
 | ----- | ----- | ----- |
 |Tercen Terms & Conditions for Professional Services | 01-January-2022 | 1.0.1 |
 
-# Terms and Conditions for Professional Services
+# Tercen Terms and Conditions for Professional Services
 
 These Terms and Conditions and the license terms for the Software or Service that you license govern the provision of the Professional Services. The Professional Services are purchased separately from any other Services provided byTercen or its affiliates. Travel and related expenses may be included in your invoice. Unused Professional Service hours and fees are non refundable but may be applied to other Services.
 * In the event that Tercen uses any subcontractors in the performance of its obligations hereunder, Tercen will remain responsible for such subcontractors’ performance.
