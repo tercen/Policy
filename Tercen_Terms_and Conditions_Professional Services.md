@@ -1,6 +1,6 @@
 | title	| date | version |
 | ----- | ----- | ----- |
-|Tercen Terms & Conditions for Professional Services | 01-January-2022 | 1.0.0 |
+|Tercen Terms & Conditions for Professional Services | 01-January-2022 | 1.0.1 |
 
 # Terms and Conditions for Professional Services
 
