@@ -1,3 +1,8 @@
+title	date	version
+The Tercen Privacy Notice
+15-May-2020
+1.0
+
 # Terms and Conditions for Professional Services
 
 ___
