@@ -7,9 +7,9 @@
 
 In this article:
 
-*Tercen Subprocessors
-*Cookies on Tercen
-*Tracking on Tercen
+* Tercen Subprocessors
+* Cookies on Tercen
+* Tracking on Tercen
 
 Tercen provides a great deal of transparency regarding how we use your data, how we collect your data, and with whom we share your data. To that end, we provide this page, which details our subprocessors, how we use cookies, and where and how we perform any tracking on Tercen.
 
